@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Im Spencer! 👋
+
+- 🔭 I’m currently working on ... Learning Web Development
+- 🌱 I’m currently learning ... HTML, CSS, Javascript
 
 <!--
 **SpencerStrickland/SpencerStrickland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
